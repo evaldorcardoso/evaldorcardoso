@@ -1,4 +1,5 @@
-## E aí! Eu sou o Evaldo R. Cardoso 
+## E aí! Eu sou o Evaldo R. Cardoso o/
+## Hey guys! I'm Evaldo R. Cardoso o/
  <div>
   <a href="https://github.com/evaldorcardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evaldorcardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
