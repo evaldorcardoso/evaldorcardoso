@@ -13,7 +13,7 @@
   <img align="center" alt="evaldorcardoso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="evaldorcardoso-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="evaldorcardoso-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="right" style="height:50px;width:100px" alt="Rafa-yoda" src="https://github.com/evaldorcardoso/evaldorcardoso/blob/main/2326579.png">
+  <!--<img align="right" style="height:50px;width:100px" alt="Rafa-yoda" src="https://github.com/evaldorcardoso/evaldorcardoso/blob/main/2326579.png">-->
 </div>
   
   ##
