@@ -2,8 +2,8 @@
 ### Hey guys! I'm Evaldo R. Cardoso
  <div>
   <a href="https://github.com/evaldorcardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evaldorcardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaldorcardoso&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eosin-one.vercel.app/api?username=evaldorcardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eosin-one.vercel.app/api/top-langs/?username=evaldorcardoso&layout=compact&langs_count=16&theme=dark"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="evaldorcardoso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
